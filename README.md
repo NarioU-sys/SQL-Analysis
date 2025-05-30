@@ -1,6 +1,6 @@
 # 📊  Global Cybersecurity Threats (2015–2024) – SQL Data Analysis
 
-![Alt text](images\sql_uda.jpeg)
+![Alt text](images/sql_uda.jpeg)
 ![Static Badge](https://img.shields.io/badge/Python_version-3.10%2B-green) 
 ![Static Badge](https://img.shields.io/badge/EDA_InsightGaining_Visualization_Databases%20view-yellow)
 ![Static Badge](https://img.shields.io/badge/SQL-violet) 
@@ -52,7 +52,7 @@ This exploration will guide our understanding of global cybersecurity dynamics a
   
 - **Lowest Year**: The year with the fewest attacks was **2019**, with only **263 attacks**.
 
-![Alt text](images\year.png)
+![Alt text](images/year.png)
 
 **Top 10 Countries with the Most Cyberattacks:**
 - **UK:** 321 attacks (10.70%)
@@ -66,7 +66,7 @@ This exploration will guide our understanding of global cybersecurity dynamics a
 - **USA:** 287 attacks (9.57%)
 - **China:** 281 attacks (9.37%)
 
-![Alt text](images\country.png)
+![Alt text](images/country.png)
 
 **Top 7 Most Targeted Industries:**
    The industries with the highest number of cyberattacks are:
@@ -78,7 +78,7 @@ This exploration will guide our understanding of global cybersecurity dynamics a
    - **Telecommunications**: 403 attacks
    - **Government**: 403 attacks
 
-   ![Alt text](images\industry.png)
+   ![Alt text](images/industry.png)
 
 
 ### Losses from defense mechanism
